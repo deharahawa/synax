@@ -1,0 +1,5 @@
+nodeVersion: "24.21.0"
+saveExact: true
+packages:
+  - "apps/*"
+  - "packages/*"
